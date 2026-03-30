@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubouaha&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubouaha" /> </p>
 
-- 🔭 I’m currently working on: [**Guard pharmacy app**](https://github.com/ayoubouaha/pers_Guard_pharmacy)
+- 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: **DevOps practices & Cloud infrastructure fundamentals.**
 
 - 📫 How to reach me: **ayoub.ouahaa@gmail.com**
