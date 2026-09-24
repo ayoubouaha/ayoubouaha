@@ -91,21 +91,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ayoubouaha&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Ayoub's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubouaha&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <p align="center">
