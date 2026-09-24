@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ouaha</h1>
 
 <h3 align="center">
-  Software Engineering Student | Cloud & DevOps Enthusiast
+  Software Engineer | Cloud & DevOps
 </h3>
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Software Engineering student specializing in **Cloud, Infrastructure & Distributed Systems**
-* ☁️ Interested in **Cloud Computing, DevOps, Infrastructure & Observability**
-* 🚀 Building projects around **cloud infrastructure, monitoring, automation and data platforms**
-* 🌱 Currently deepening my knowledge of **Microsoft Azure, DevOps practices and cloud architecture**
-* 🔧 Hands-on experience with **Docker, Linux, CI/CD, monitoring and distributed systems**
+* 💻 **Software Engineer** focused on **Cloud, DevOps & Infrastructure**
+* ☁️ Interested in **Cloud Computing, Distributed Systems & Cloud Architecture**
+* ⚙️ Building solutions around **DevOps, automation, monitoring and data platforms**
+* 🚀 Hands-on experience with **Docker, Linux, CI/CD, Azure and observability**
+* 📊 Interested in **real-time data processing, telemetry and distributed systems**
+* 🌱 Currently deepening my expertise in **Microsoft Azure, DevOps and Cloud Architecture**
 * 📍 Morocco
 
 ---
@@ -37,7 +38,7 @@
 #### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,typescript" />
 </p>
 
 #### 🗄️ Databases & Data
@@ -46,49 +47,61 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 </p>
 
-#### 📊 Monitoring & Infrastructure
+#### 📊 Monitoring & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-#### 🔗 Other Technologies
+#### 🔗 Messaging & Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rabbitmq,postman,hadoop" />
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,hadoop" />
+</p>
+
+#### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,github,vscode" />
 </p>
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I Work On
 
-Currently working on projects involving:
-
-* 📡 Real-time telemetry and data processing
 * ☁️ Cloud infrastructure and services
+* ⚙️ DevOps automation and CI/CD
 * 🐳 Containerized applications
+* 📡 Real-time telemetry and data processing
 * 📊 Monitoring and observability
 * 🔄 Data pipelines and distributed systems
-* ⚙️ DevOps automation and CI/CD
+* 🏗️ Scalable backend and infrastructure solutions
 
 ---
 
 ### 📚 Currently Learning
 
 * **Microsoft Azure**
-* **Azure infrastructure & administration**
-* **DevOps practices**
-* **Cloud architecture**
-* **Infrastructure automation**
-* **Monitoring & observability**
+* **Azure Infrastructure & Administration**
+* **Azure DevOps**
+* **Cloud Architecture**
+* **Infrastructure Automation**
+* **Monitoring & Observability**
+* **Distributed Systems**
 
 ---
 
-### 📈 GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubouaha&show_icons=true&hide_border=true&rank_icon=github" alt="Ayoub's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubouaha&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ayoubouaha&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Ayoub's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubouaha&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
