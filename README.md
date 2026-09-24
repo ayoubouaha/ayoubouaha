@@ -1,22 +1,105 @@
 <h1 align="center">Hi 👋, I'm Ayoub Ouaha</h1>
-<h3 align="center">🎓Software Engineering Student | Cloud & DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubouaha&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubouaha" /> </p>
+<h3 align="center">
+  Software Engineering Student | Cloud & DevOps Enthusiast
+</h3>
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: **DevOps practices & Cloud infrastructure fundamentals.**
-
-- 📫 How to reach me: **ayoub.ouahaa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayoub-ouaha-a80218226/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayoub Ouaha LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayoub-ouaha-a80218226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Ouaha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayoub.ouahaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayoub.ouahaa%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubouaha" alt="ayoubouaha" />
-</div>
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Software Engineering student specializing in **Cloud, Infrastructure & Distributed Systems**
+* ☁️ Interested in **Cloud Computing, DevOps, Infrastructure & Observability**
+* 🚀 Building projects around **cloud infrastructure, monitoring, automation and data platforms**
+* 🌱 Currently deepening my knowledge of **Microsoft Azure, DevOps practices and cloud architecture**
+* 🔧 Hands-on experience with **Docker, Linux, CI/CD, monitoring and distributed systems**
+* 📍 Morocco
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,jenkins,git,linux" />
+</p>
+
+#### 💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css" />
+</p>
+
+#### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+#### 📊 Monitoring & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+#### 🔗 Other Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,postman,hadoop" />
+</p>
+
+---
+
+### 🚀 What I'm Working On
+
+Currently working on projects involving:
+
+* 📡 Real-time telemetry and data processing
+* ☁️ Cloud infrastructure and services
+* 🐳 Containerized applications
+* 📊 Monitoring and observability
+* 🔄 Data pipelines and distributed systems
+* ⚙️ DevOps automation and CI/CD
+
+---
+
+### 📚 Currently Learning
+
+* **Microsoft Azure**
+* **Azure infrastructure & administration**
+* **DevOps practices**
+* **Cloud architecture**
+* **Infrastructure automation**
+* **Monitoring & observability**
+
+---
+
+### 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubouaha&show_icons=true&hide_border=true&rank_icon=github" alt="Ayoub's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubouaha&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayoub-ouaha-a80218226/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayoub.ouahaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
